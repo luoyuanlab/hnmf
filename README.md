@@ -29,3 +29,12 @@ Input:
   %% tol - tolerance for a relative stopping condition
   %% timelimit, maxiter - limit of time and iterations
 ```
+### Citation
+```
+@article{luo2018hnmf,
+  title={Integrating Hypertension Phenotype and Genotype with Hybrid Non-negative Matrix Factorization},
+  author={Luo, Yuan and Mao, Chengsheng and Yang, Yiben and Wang, Fei and Ahmad, Faraz S. and Arnett, Donna and Irvin, Marguerite R. and Shah, Sanjiv J.},
+  journal={arXiv preprint arXiv:1805.05008},
+  year={2018}
+}
+```
