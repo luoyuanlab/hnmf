@@ -34,7 +34,8 @@ Input:
 @article{luo2018hnmf,
   title={Integrating Hypertension Phenotype and Genotype with Hybrid Non-negative Matrix Factorization},
   author={Luo, Yuan and Mao, Chengsheng and Yang, Yiben and Wang, Fei and Ahmad, Faraz S. and Arnett, Donna and Irvin, Marguerite R. and Shah, Sanjiv J.},
-  journal={arXiv preprint arXiv:1805.05008},
+  journal={Bioinformatics},
+  url={https://doi.org/10.1093/bioinformatics/bty804},
   year={2018}
 }
 ```
